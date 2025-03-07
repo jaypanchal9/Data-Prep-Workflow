@@ -1,4 +1,4 @@
-# SpotlessData
+# Spotless Data
 
 SpotlessData is a structured repository for performing efficient data cleaning and preprocessing using Python and Jupyter Notebooks. It includes tasks designed to simplify the process of preparing datasets for analysis by identifying and correcting issues such as missing values, inconsistencies, and outliers.
 
